@@ -57,8 +57,11 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
-
-
+hat.png{
+  
+margin-top: 158px;
+  margin-left: 30px;   
+} 
 
 
 /* Insert CSS for arms below this line*/
